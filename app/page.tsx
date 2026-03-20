@@ -34,9 +34,9 @@ const solutionFeatures = [
 ];
 
 const impactStats = [
-  { value: "10,000+", label: "Target students reached" },
-  { value: "100+", label: "Partner schools vision" },
-  { value: "70%", label: "Cost reduction goal" },
+  { value: "10,000+", label: "Target students (roadmap)" },
+  { value: "100+", label: "Partner schools (vision)" },
+  { value: "70%", label: "Projected cost reduction goal" },
   { value: "STEM parity", label: "Long-term learning focus" },
 ];
 
@@ -117,18 +117,6 @@ export default function Home() {
         </div>
       </Section>
 
-      <Section id="founder" title="Founder">
-        <article className="max-w-3xl rounded-2xl border border-slate-200 bg-white p-8 shadow-sm">
-          <h3 className="text-2xl font-semibold text-slate-900">Sita Rasagna Vakkalanka</h3>
-          <p className="mt-2 text-blue-700">PhD Scholar, Distributed Systems &amp; Security</p>
-          <p className="mt-4 text-slate-600">
-            IEEE-published researcher and mission-driven founder building inclusive hardware for
-            education equity. She leads Lumibraille&apos;s vision to democratize literacy and STEM access
-            for blind students through practical, scalable deep-tech innovation.
-          </p>
-        </article>
-      </Section>
-
       <Section id="contact" title="Contact">
         <form className="grid gap-4 rounded-2xl border border-slate-200 bg-white p-8 shadow-sm md:grid-cols-2">
           <label className="grid gap-2 text-sm font-medium text-slate-700">
@@ -178,11 +166,8 @@ export default function Home() {
         <div className="mx-auto flex w-full max-w-6xl flex-col gap-3 px-4 py-8 text-sm text-slate-600 sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-8">
           <p>© 2026 Lumibraille</p>
           <div className="flex gap-4">
-            <a href="#" className="transition hover:text-blue-700">
-              LinkedIn
-            </a>
-            <a href="mailto:hello@lumibraille.org" className="transition hover:text-blue-700">
-              hello@lumibraille.org
+            <a href="mailto:hello@lumibraille.in" className="transition hover:text-blue-700">
+              hello@lumibraille.in
             </a>
           </div>
         </div>

@@ -3,7 +3,6 @@ const navLinks = [
   { href: "#product", label: "Product" },
   { href: "#impact", label: "Impact" },
   { href: "#technology", label: "Technology" },
-  { href: "#founder", label: "Founder" },
   { href: "#contact", label: "Contact" },
 ];
 
