@@ -25,12 +25,6 @@ export default function Navbar() {
             </li>
           ))}
         </ul>
-        <a
-          href="#contact"
-          className="rounded-full bg-slate-900 px-5 py-2.5 text-sm font-semibold text-white shadow-sm transition hover:bg-slate-800"
-        >
-          Request Demo
-        </a>
       </nav>
     </header>
   );
