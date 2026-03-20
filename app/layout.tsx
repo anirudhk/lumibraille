@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Tactora | Dynamic Braille Learning Devices",
+  title: "Lumibraille | Dynamic Braille Learning Devices",
   description:
     "Affordable tactile learning devices empowering blind students with literacy and STEM access.",
 };

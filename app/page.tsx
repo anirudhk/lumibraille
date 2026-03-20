@@ -78,7 +78,7 @@ export default function Home() {
         <div className="grid gap-6 rounded-2xl border border-slate-200 bg-white p-8 shadow-sm lg:grid-cols-2">
           <div className="space-y-4 text-slate-600">
             <p>
-              Tactora combines deep-tech research with practical deployment constraints to make
+              Lumibraille combines deep-tech research with practical deployment constraints to make
               tactile learning devices affordable and reliable for scale.
             </p>
             <p>
@@ -123,7 +123,7 @@ export default function Home() {
           <p className="mt-2 text-blue-700">PhD Scholar, Distributed Systems &amp; Security</p>
           <p className="mt-4 text-slate-600">
             IEEE-published researcher and mission-driven founder building inclusive hardware for
-            education equity. She leads Tactora&apos;s vision to democratize literacy and STEM access
+            education equity. She leads Lumibraille&apos;s vision to democratize literacy and STEM access
             for blind students through practical, scalable deep-tech innovation.
           </p>
         </article>
@@ -176,13 +176,13 @@ export default function Home() {
 
       <footer className="border-t border-slate-200 bg-white/80">
         <div className="mx-auto flex w-full max-w-6xl flex-col gap-3 px-4 py-8 text-sm text-slate-600 sm:flex-row sm:items-center sm:justify-between sm:px-6 lg:px-8">
-          <p>© 2026 Tactora</p>
+          <p>© 2026 Lumibraille</p>
           <div className="flex gap-4">
             <a href="#" className="transition hover:text-blue-700">
               LinkedIn
             </a>
-            <a href="mailto:hello@tactora.org" className="transition hover:text-blue-700">
-              hello@tactora.org
+            <a href="mailto:hello@lumibraille.org" className="transition hover:text-blue-700">
+              hello@lumibraille.org
             </a>
           </div>
         </div>
